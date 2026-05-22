@@ -1,7 +1,33 @@
 body {
-    background-color :chocolate;
+    background-color : #41a39e;
 }
 h1{
     text-align : center;
     font-family : 'Courier New', Courier, monospace ;
+}
+.content {
+    height : 300px ;
+    width : 500px ;
+    background-color : lightblue ;
+    padding : 20px 20px ;
+}
+.a{
+    display : flex ;
+
+}
+.img {
+    margin : 0px 20px ;
+}
+.content {
+    margin : 0px 20px ;
+}
+.c2{
+    margin : 0px 20px ;
+    height : 300px ;
+    width : 500px ;
+    background-color : lightblue ;
+    padding : 20px 20px ;
+}
+.b {
+    ju: center ;
 }
