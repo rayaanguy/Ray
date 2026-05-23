@@ -10,7 +10,8 @@ h1{
     width : 500px ;
     background-color : lightblue ;
     padding : 20px 20px ;
-    overflow-wrap: break-word
+    overflow-wrap: break-word ;
+    overflow: scroll;
 }
 .a{
     display : flex ;
@@ -28,7 +29,8 @@ h1{
     width : 500px ;
     background-color : lightblue ;
     padding : 20px 20px ;
-    overflow-wrap: break-word
+    overflow-wrap: break-word ;
+    overflow: scroll;
 }
 button {
     margin : 0px 20px ;
