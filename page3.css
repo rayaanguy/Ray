@@ -18,7 +18,8 @@ h1{
     height : 300px ;
     width : 500px ;
     background-color : gray;
-    padding : 20px 20px ;
+    padding : 20px 20px ;  
+    overflow-wrap: break-word
 }
 .aaaa{
     margin : 0px 20px ;
@@ -26,5 +27,6 @@ h1{
     width : 500px ;
     background-color : gray ;
     padding : 20px 20px ;
+    overflow-wrap: break-word
 }
 
