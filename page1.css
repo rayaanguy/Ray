@@ -26,7 +26,7 @@ h1{
     width : 400px ;
     background-color : brown ;
     overflow-wrap: break-word ;
-    overflow-wrap: scroll ;
+    overflow: scroll;
 }
 
 .o{
