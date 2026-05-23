@@ -15,7 +15,8 @@ h1{
     background-color : chocolate;
     padding : 20px ;
     margin : 0px 20px ; 
-    overflow-wrap: break-word
+    overflow-wrap: break-word ;
+    overflow: scroll;
     
    
 
@@ -24,7 +25,8 @@ h1{
     height : 200px ;
     width : 400px ;
     background-color : brown ;
-    overflow-wrap: break-word
+    overflow-wrap: break-word ;
+    overflow-wrap: scroll ;
 }
 
 .o{
