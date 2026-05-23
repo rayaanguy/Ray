@@ -10,6 +10,7 @@ h1{
     width : 500px ;
     background-color : lightblue ;
     padding : 20px 20px ;
+    overflow-wrap: break-word
 }
 .a{
     display : flex ;
@@ -27,10 +28,11 @@ h1{
     width : 500px ;
     background-color : lightblue ;
     padding : 20px 20px ;
+    overflow-wrap: break-word
 }
 button {
     margin : 0px 20px ;
     height : 50 px ;
     width : 150 px ;
-    background-color : gray ;
+    background-color : gray ; 
 }
