@@ -23,3 +23,9 @@ body {
     overflow-wrap: break-word ;
     overflow: scroll;
 }
+button {
+    margin : 0px 20px ;
+    height : 50 px ;
+    width : 150 px ;
+    background-color : gray ; 
+}
